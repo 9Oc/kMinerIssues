@@ -1,4 +1,4 @@
 kMinerIssues
 ============
 
-A public repository for kMiner issues only.
+This is a public repo for easily tracking issues and requests.
